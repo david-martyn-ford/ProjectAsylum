@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.22310.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AD511C08-42C1-4F11-9B64-8723BB54978C}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ProjectAsylum.Web", "src\ProjectAsylum\ProjectAsylum.Web.kproj", "{66D67D94-A550-4B19-ABA5-C9BB4A787039}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ProjectAsylum.Web", "src\ProjectAsylum.Web\ProjectAsylum.Web.kproj", "{66D67D94-A550-4B19-ABA5-C9BB4A787039}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B8A457CB-78F2-4B9B-B425-599EE555B67A}"
 	ProjectSection(SolutionItems) = preProject
